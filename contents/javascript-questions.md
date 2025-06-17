@@ -1,11 +1,11 @@
 ---
 title: JavaScript Interview Questions (Quiz) for Front End Interviews
-sidebar_label: JavaScript questions
+sidebar_label: JavaScript quiz
 ---
 
-:::info Page migrated to GreatFrontEnd
+:::info Latest version on GreatFrontEnd
 
-Front End Interview Handbook is part of [GreatFrontEnd](https://www.greatfrontend.com?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook)! We are working to migrate the content over and you may find the latest version of this page on [GreatFrontEnd](https://www.greatfrontend.com/questions/javascript-interview-questions/quiz?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
+We are working to migrate the content over and you may find the latest version of this page on [GreatFrontEnd's JavaScript Interview Questions](https://www.greatfrontend.com/questions/javascript-interview-questions/quiz?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
 
 :::
 

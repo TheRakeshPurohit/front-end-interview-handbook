@@ -17,6 +17,7 @@
 }
 
 :root {
+  --ifm-font-size-base: 15px;
   --ifm-color-primary: #d62b79;
   --ifm-color-primary-dark: #c2256d;
   --ifm-color-primary-darker: #b72367;

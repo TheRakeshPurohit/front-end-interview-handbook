@@ -1,11 +1,11 @@
 ---
 title: HTML Interview Questions (Quiz) for Front End Interviews
-sidebar_label: HTML questions
+sidebar_label: HTML quiz
 ---
 
-:::info Page migrated to GreatFrontEnd
+:::info Latest version on GreatFrontEnd
 
-Front End Interview Handbook is part of [GreatFrontEnd](https://www.greatfrontend.com?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook)! We are working to migrate the content over and you may find the latest version of this page on [GreatFrontEnd](https://www.greatfrontend.com/questions/html-interview-questions/quiz?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
+We are working to migrate the content over and you may find the latest version of this page on [GreatFrontEnd HTML Interview Questions](https://www.greatfrontend.com/questions/html-interview-questions/quiz?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
 
 :::
 

@@ -3,9 +3,9 @@ title: Behavorial Interviews
 sidebar_label: Behavorial interviews
 ---
 
-:::info Page migrated to GreatFrontEnd
+:::info Latest version on GreatFrontEnd
 
-Front End Interview Handbook is part of [GreatFrontEnd](https://www.greatfrontend.com?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook)! Find the latest version of this page on [GreatFrontEnd](https://www.greatfrontend.com/behavioral-interview-playbook?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
+Find the latest version of this page on [GreatFrontEnd's Behavioral Interview Playbook for Front End Engineers](https://www.greatfrontend.com/behavioral-interview-playbook/introduction?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
 
 :::
 
@@ -13,7 +13,7 @@ Behavioral interview rounds focus on a candidate's soft skills - how they work w
 
 <a className="button button--primary" href="https://www.techinterviewhandbook.org/behavioral-interview/">Go to Tech Interview Handbook &nbsp;→</a>
 
-## What Facebook looks for in behavioral interviews
+## What Meta looks for in behavioral interviews
 
 - Discuss anything that's on your resume, including current projects and details
 - Provide specific examples about what you did and the resulting impact
@@ -23,7 +23,7 @@ Behavioral interview rounds focus on a candidate's soft skills - how they work w
 
 _Source: [Preparing for your Onsite Interview at Facebook](https://www.facebook.com/careers/swe-prep-onsite)_
 
-Do check out [GreatFrontEnd](https://www.greatfrontend.com?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook) for its free [Behavioral Interview Guidebook](https://www.greatfrontend.com/behavioral-interview-guidebook?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook) to learn how to approach behavioral interviews as a front end engineer. Find out about evaluation criteria at big tech, efficient strategies to prepare, and top behavioral interview questions.
+Check out [GreatFrontEnd](https://www.greatfrontend.com?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook) for its free [Behavioral Interview Playbook](https://www.greatfrontend.com/behavioral-interview-playbook?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook) to learn how to approach behavioral interviews as a front end engineer. Find out about evaluation criteria at big tech, efficient strategies to prepare, and top behavioral interview questions.
 
 ## Courses
 

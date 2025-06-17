@@ -3,7 +3,7 @@ title: Apple Front End Interview Questions
 sidebar_label: Apple interview questions
 ---
 
-:::info Page migrated to GreatFrontEnd
+:::info Latest version on GreatFrontEnd
 
 Find the latest version of this page on [GreatFrontEnd](https://www.greatfrontend.com/interviews/company/apple/questions-guides?utm_source=frontendinterviewhandbook&utm_medium=referral&gnrs=frontendinterviewhandbook).
 

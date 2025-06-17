@@ -14,7 +14,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'gfe', // Increment on change
-      content: `⭐️ We are now part of <a href="https://www.greatfrontend.com/?utm_source=frontendinterviewhandbook&utm_medium=referral&utm_content=banner&gnrs=frontendinterviewhandbook" target="_blank">GreatFrontEnd</a>, a front end interview preparation platform created by ex-FAANG Senior Engineers. <a href="https://www.greatfrontend.com/?utm_source=frontendinterviewhandbook&utm_medium=referral&utm_content=banner&gnrs=frontendinterviewhandbook" target="_blank">Get 20% off today</a>! ⭐️`,
+      content: `We are now part of <a href="https://www.greatfrontend.com/?utm_source=frontendinterviewhandbook&utm_medium=referral&utm_content=banner&gnrs=frontendinterviewhandbook" target="_blank">GreatFrontEnd</a>, a front end interview preparation platform created by ex-Meta and Google Engineers. <a href="https://www.greatfrontend.com/?utm_source=frontendinterviewhandbook&utm_medium=referral&utm_content=banner&gnrs=frontendinterviewhandbook" target="_blank">Get 20% off today</a>!`,
       isCloseable: false,
     },
     prism: {
@@ -75,7 +75,7 @@ module.exports = {
             </svg>`,
         },
         {
-          href: 'https://discord.gg/BZuXW2gJy9',
+          href: 'https://discord.gg/NDFx8f6P6B',
           position: 'right',
           className: 'navbar-icon navbar-icon-discord',
           'aria-label': 'Discord channel',
@@ -140,7 +140,7 @@ module.exports = {
               href: '/front-end-system-design/',
             },
             {
-              label: 'UI components',
+              label: 'User interface components',
               href: '/front-end-system-design/ui-components/',
             },
             {
@@ -161,16 +161,20 @@ module.exports = {
               href: 'https://github.com/yangshun/front-end-interview-handbook',
             },
             {
-              label: 'Tech Interview Handbook',
-              href: 'https://www.techinterviewhandbook.org',
+              label: 'X',
+              href: 'https://x.com/greatfrontend',
             },
             {
-              label: 'Twitter',
-              href: 'https://x.com/greatfrontend',
+              label: 'Discord',
+              href: 'https://discord.gg/NDFx8f6P6B',
             },
             {
               label: 'Contact us',
               href: 'mailto:contact@greatfrontend.com',
+            },
+            {
+              label: 'Tech Interview Handbook',
+              href: 'https://www.techinterviewhandbook.org',
             },
           ],
         },
